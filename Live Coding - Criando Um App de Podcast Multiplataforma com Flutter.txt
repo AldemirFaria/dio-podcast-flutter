@@ -1,0 +1,15 @@
+=======================================================================
+                        Criando Um App de Podcast Multiplataforma com Flutter
+=======================================================================
+Live Coding - Criando Um App de Podcast Multiplataforma com Flutter
+https://www.youtube.com/watch?v=YIJDzjXn-1s
+
+
+Atualmente os Podcasts proveem conteúdos em áudio, disponibilizados através de um arquivo ou streaming, que podem ser ouvidos sob demanda por seus usuários. Nesse sentido, iremos criar a UI e algumas funcionalidades em Flutter, com a temática de um Podcast DIO. O objetivo é explorar conceitos de Layout e Componentes disponíveis no Flutter, além de desmistificar o uso do Dart como linguagem de programação.
+
+=======================================================================
+
+PRÉ-REQUISITOS:
+- Conhecimentos básicos em Dart, Flutter e VS Code.
+
+=======================================================================
